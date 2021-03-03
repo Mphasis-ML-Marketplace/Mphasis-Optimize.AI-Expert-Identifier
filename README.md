@@ -13,4 +13,4 @@ Expert Identifier is machine learning based model that uses information present 
 * Mphasis Optimize.AI is an AI-centric process analysis and optimization tool that uses AI/ML techniques to mine the event logs to deliver business insights. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](Marketplace Link to the listing. Update this once it is published. Example: https://aws.amazon.com/marketplace/pp/prodview-il76hcpzw7vai)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-il76hcpzw7vai)
